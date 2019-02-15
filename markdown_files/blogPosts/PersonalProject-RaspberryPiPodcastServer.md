@@ -1,1 +1,0 @@
-Personal project: Raspberry pi podcast server

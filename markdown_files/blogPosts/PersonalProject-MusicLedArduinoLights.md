@@ -1,1 +1,0 @@
-Personal project: Music Led arduino lights
